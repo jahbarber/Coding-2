@@ -1,0 +1,5 @@
+1. Game Mechanics - Fighting
+2 Controls & User input - Through a keyboard
+3. Graphics & Animations - 2d game visuals and animations are used
+4.Game Objectives - To win a Fight
+5.Unique Features - Its characters
